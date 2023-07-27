@@ -1,20 +1,23 @@
 body{
-    color: white;
-    background-color: #6527BE;
+    color: #a435f0;
+    background-color: #f6eefc;
+    text-align: justify;
 }
 a{
-    color: #fcfcfc;
+    color: #a435f0;
 }
 
 footer {
     text-align: center;
     padding: 5px;
-    background-color: #00ffff ;
-    position: relative;
+    background-color: #6a6f73 ;
     
   }
   .footer{
-    color: #6527BE;
+    color: #f6eefc;
     margin-left: 25px;
   }
-  
+ /*https://colorhunt.co/palette/6527be9681eb45cfdda7ede7*/
+  p,ul,td{
+    color: black;
+  }
