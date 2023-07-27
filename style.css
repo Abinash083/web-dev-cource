@@ -1,0 +1,21 @@
+body{
+    color: #fcfcfc;
+    background-color: #2d00cf;
+}
+a{
+    color: #fcfcfc;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #2fcf9c;
+    position: relative;
+    
+  }
+  .footer{
+    color: #2d00cf;
+    margin-left: 25px;
+    align-items: stretch;
+    position: relative;
+  }
