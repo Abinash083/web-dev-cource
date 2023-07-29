@@ -1,23 +1,23 @@
-body{
-    color: #a435f0;
-    background-color: #f6eefc;
-    text-align: justify;
+body {
+  color: #a435f0;
+  background-color: #f6eefc;
+  text-align: justify;
 }
-a{
-    color: #a435f0;
+a {
+  color: #a435f0;
 }
 
 footer {
-    text-align: center;
-    padding: 5px;
-    background-color: #6a6f73 ;
-    
-  }
-  .footer{
-    color: #f6eefc;
-    margin-left: 25px;
-  }
- /*https://colorhunt.co/palette/6527be9681eb45cfdda7ede7*/
-  p,ul,td{
-    color: black;
-  }
+  text-align: center;
+  padding: 5px;
+  background-color: #6a6f73;
+}
+.footer {
+  color: #f6eefc;
+}
+/*https://colorhunt.co/palette/6527be9681eb45cfdda7ede7*/
+p,
+ul,
+td {
+  color: black;
+}
